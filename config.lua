@@ -1,0 +1,9 @@
+bot_token = "410856564:AAGel_521456VYVXKlABtozSEyp-rQqRXPY" 
+send_api = "https://api.telegram.org/bot"..bot_token 
+bot_version = "6.0" 
+sudo_name = "danial habiby" 
+sudo_id = 438573461 
+admingp = -135847900 
+sudo_num = "19204560074" 
+sudo_user = "danial" 
+sudo_ch = "publictm" 
